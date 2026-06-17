@@ -2,3 +2,4 @@ Packages we used in this course ..
 1. ipykernal
 2.numpy
 3.pandas
+4.imblearn in smote
